@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=36BCF7&center=true&pause=100000&lines=Hi,+I'm+Liang+Hengyi.+AI+%2F+Cybersecurity." alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=36BCF7&center=true&pause=100000&lines=I'm+Liang+Hengyi.+AI+%2F+Cybersecurity." alt="Hi"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=7BE495&center=true&vCenter=true&width=860&pause=100000&lines=XMU+Cybersecurity+undergraduate+%7C+Python+%2F+PyTorch+%2F+LLM+Workflow." alt="Current Role"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
